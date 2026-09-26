@@ -1027,5 +1027,3 @@ Show me the evidence.**
 Built with ❤️ using React, Node.js, SerpApi.
 
 </div>
-
-And once Claude finishes the site, send me **2–4 screenshots of the actual UI** and I can make you a much more visually polished README with a **hero image layout, feature showcase, architecture graphic, badges, demo GIF section, and hackathon presentation styling**.
